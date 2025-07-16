@@ -1,3 +1,2 @@
 # practice-repo
-here i am trying to post something !!!!
-some random stuff
+This is a simple but effective to-do list where we can manage our daily tasks so that we do not miss any of our important tasks!!
